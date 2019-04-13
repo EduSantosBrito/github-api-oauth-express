@@ -1,0 +1,4 @@
+module.exports = {
+  GITHUB_KEY: "533c813c23b88a073584",
+  GITHUB_SECRET: "71a9f4aac20ee0834df4919f7ce26e6126fd892c"
+};
